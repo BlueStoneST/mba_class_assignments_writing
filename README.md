@@ -1,0 +1,2 @@
+# mba_class_assignments_writing
+梳理MBA课堂作业思路并完成写作的Skill
